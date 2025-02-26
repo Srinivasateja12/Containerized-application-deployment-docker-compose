@@ -24,7 +24,7 @@ Docker Compose
 ### 1. Clone the Repository
 
 > git clone https://github.com/Srinivasateja12/Containerized-application-deployment-docker-compose.git
-cd Containerized-application-deployment-docker-compose
+
 
 ### 2. Build and Start Containers
 
