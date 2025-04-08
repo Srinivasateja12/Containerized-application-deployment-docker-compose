@@ -4,14 +4,14 @@
 
 This project demonstrates how to deploy a containerized application using Docker Compose. It includes multiple services running in separate containers, ensuring a scalable and efficient architecture.
 
-### Features
+## Features
 
 - Multi-container setup using Docker Compose
 - Easy deployment with a single command
 - Service orchestration and dependency management
 - Port mapping and volume management
 
-### Prerequisites
+## Prerequisites
 
 Ensure you have the following installed on your system:
 
